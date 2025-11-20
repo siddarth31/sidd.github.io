@@ -1,0 +1,23 @@
+Reading package lists...
+Building dependency tree...
+Reading state information...
+ruby-bundler is already the newest version (1.16.1-1).
+The following packages were automatically installed and are no longer required:
+  cuda-command-line-tools-10-0 cuda-compiler-10-0 cuda-cublas-10-0
+  cuda-cublas-dev-10-0 cuda-cudart-10-0 cuda-cudart-dev-10-0 cuda-cufft-10-0
+  cuda-cufft-dev-10-0 cuda-cuobjdump-10-0 cuda-cupti-10-0 cuda-curand-10-0
+  cuda-curand-dev-10-0 cuda-cusolver-10-0 cuda-cusolver-dev-10-0
+  cuda-cusparse-10-0 cuda-cusparse-dev-10-0 cuda-documentation-10-0
+  cuda-driver-dev-10-0 cuda-gdb-10-0 cuda-gpu-library-advisor-10-0
+  cuda-libraries-10-0 cuda-libraries-dev-10-0 cuda-license-10-0
+  cuda-memcheck-10-0 cuda-misc-headers-10-0 cuda-npp-10-0 cuda-npp-dev-10-0
+  cuda-nsight-10-0 cuda-nsight-compute-10-0 cuda-nvcc-10-0 cuda-nvdisasm-10-0
+  cuda-nvgraph-10-0 cuda-nvgraph-dev-10-0 cuda-nvjpeg-10-0
+  cuda-nvjpeg-dev-10-0 cuda-nvml-dev-10-0 cuda-nvprof-10-0 cuda-nvprune-10-0
+  cuda-nvrtc-10-0 cuda-nvrtc-dev-10-0 cuda-nvtx-10-0 cuda-nvvp-10-0
+  cuda-samples-10-0 cuda-toolkit-10-0 cuda-tools-10-0 cuda-visual-tools-10-0
+  gir1.2-goa-1.0 gir1.2-snapd-1 libamd2 libbabl-0.1-0 libcamd2 libccolamd2
+  libcholmod3 libfwup1 libgegl-0.3-0 libllvm9 libllvm9:i386 libmetis5
+  libnvidia-common-410 libnvidia-common-415 libumfpack5 nvidia-modprobe shim
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 23 not upgraded.
