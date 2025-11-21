@@ -9,9 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>MERL </p> \\
-    <p>201 Broadway, 8th Floor</p>
-    <p>Cambridge, MA 02139-1955</p>
+    <p>timeless namesake</p> \\
+    <p>Siddhartha, Kamakura edition</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -34,10 +33,10 @@ latest_posts:
 
 # Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/# academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.-->
 
-<p style="width: 700px; text-align: justify;">
+<p style="width: 600px; text-align: justify;">
 I am a Principal Research Scientist at <a href='https://www.merl.com/'>MERL</a>, where my research tackles foundational problems in computer vision and machine learning for robotic autonomy. My work centers on developing data-driven and geometric algorithms that enhance robots’ ability to perceive, interpret, and interact with their environments, enabling advances in human–robot collaboration and industrial automation. I also serve as an Associate Editor for IEEE Robotics and Automation Letters (RAL).
 </p>
-<p style="width: 700px; text-align: justify;">
+<p style="width: 600px; text-align: justify;">
 I received my Ph.D. in Computer Science from <a href='https://www.northwestern.edu/'>Northwestern University</a>. My doctoral research focused on probabilistic models for human intent recognition and adaptive assistance in shared autonomy for assistive teleoperation. I also developed perception algorithms that combine geometric methods with machine learning to detect high-level navigation and manipulation goals for autonomous systems. In collaboration with the 
 <a href='https://www.sralab.org/'>Shirley Ryan AbilityLab</a> in Chicago, my work led to research solutions involving user studies and interactive robotic systems designed to support people in practical applications.  
 </p>
